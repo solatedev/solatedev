@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seun SOlate</h1>
+<h1 align="center">Hi 👋, I'm Seun Solate</h1>
 <h3 align="center">A passionate Full Stack & DevOps Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
